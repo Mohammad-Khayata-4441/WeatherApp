@@ -1,0 +1,6 @@
+npm install bootstrap
+npm install jquery
+npm install popper.js
+npm install vuex@next
+npm install vue-router
+npm install @fortawesome/fontawesome-free
